@@ -1,0 +1,16 @@
+name = "asuncion/asuncion_sc"
+version = "0.0.0"
+compiler = "v1.1.4"
+plutus = "v2"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'asuncion/asuncion_sc'"
+
+[repository]
+user = "asuncion"
+project = "asuncion_sc"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v2.1.0"
+source = "github"
